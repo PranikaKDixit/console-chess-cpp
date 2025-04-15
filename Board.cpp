@@ -75,10 +75,3 @@ class Board{
         cout<<" a b c d e f g h \n";
     }
 };
-
-int main(){
-    Board chessBoard;
-    chessBoard.displayBoard();
-
-    return 0;
-}
