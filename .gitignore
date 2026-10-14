@@ -1,0 +1,4 @@
+/build/
+*.obj
+*.exe
+project_snapshot.txt
